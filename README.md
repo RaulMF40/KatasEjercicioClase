@@ -1,6 +1,6 @@
-# KatasEjercicioClase
+# SESION 6. JS fundamentales - Punto 13 - KatasEjercicioClase
 
-Batería de ejercicios
+Batería de ejercicios 
 
 Los ejercicios o katas en JavaScript son lo más importante, para aprender las diferentes herramientas que tenemos debemos "entrenar" o practicar mucho, estos ejercicios irán de menor a mayor dificultad y cada uno de ellos se podrá resolver de mil maneras distintas, sin embargo, con una solución vale, por compleja o rebuscada que sea, lo importante es completar cada ejercicio.
 
